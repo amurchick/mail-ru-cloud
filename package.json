@@ -1,0 +1,26 @@
+{
+  "name": "mail-ru-cloud",
+  "version": "0.1609.4",
+  "description": "Mail.Ru Cloud access library",
+  "main": "cloud.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amurchick/mail-ru-cloud.git"
+  },
+  "keywords": [
+    "mail",
+    "ru",
+    "cloud"
+  ],
+  "author": "Aleksandr Murin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amurchick/mail-ru-cloud/issues"
+  },
+  "homepage": "https://github.com/amurchick/mail-ru-cloud#readme"
+}
