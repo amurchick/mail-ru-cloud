@@ -1,0 +1,6 @@
+npm-debug.log*
+.grunt
+node_modules
+.npm
+.idea/
+mail-ru-cloud.iml
